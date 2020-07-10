@@ -11,3 +11,6 @@ graph rep file  is the represent of the output in graphical manner when u run th
 then decison tree.docx file is made:
 
 then using naive base classifier we have made made the final_results.docx file
+
+
+G3 is the ppt and another G3 is the documentation:
